@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Wireless Headphones",
+        "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life.",
+        "specifications": "Bluetooth 5.0, 40mm drivers, USB-C charging",
+        "category": "Electronics",
+        "price": 99.99,
+        "reviews": ["Amazing sound quality!", "Battery lasts forever.", "A bit bulky."],
+        "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+        "name": "Running Shoes",
+        "description": "Lightweight running shoes with breathable mesh and cushioned sole.",
+        "specifications": "Synthetic upper, EVA foam sole, unisex",
+        "category": "Clothing",
+        "price": 59.99,
+        "reviews": ["Super comfortable!", "Great for long runs.", "Wore out quickly."],
+        "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+        "name": "Python Programming Book",
+        "description": "Comprehensive guide to Python programming for beginners and experts.",
+        "specifications": "500 pages, paperback, 3rd edition",
+        "category": "Books",
+        "price": 29.99,
+        "reviews": ["Very clear explanations.", "Great examples!", "Needs more advanced topics."],
+        "image_url": "https://images.unsplash.com/photo-1584697964217-b3787179f7a0"
+    },
+    {
+        "name": "Smartphone",
+        "description": "Latest smartphone with 5G, 128GB storage, and high-res camera.",
+        "specifications": "6.5-inch AMOLED, 8GB RAM, triple camera",
+        "category": "Electronics",
+        "price": 499.99,
+        "reviews": ["Fast and sleek!", "Camera is amazing.", "Battery could be better."],
+        "image_url": "https://images.unsplash.com/photo-1511707171634-5f89720985d3"
+    },
+    {
+        "name": "Winter Jacket",
+        "description": "Warm waterproof jacket for cold weather.",
+        "specifications": "Polyester, insulated, unisex",
+        "category": "Clothing",
+        "price": 89.99,
+        "reviews": ["Keeps me warm!", "Great fit.", "Zipper is stiff."],
+        "image_url": "https://images.unsplash.com/photo-1605901309584-6e47cff7aa99"
+    }
+]

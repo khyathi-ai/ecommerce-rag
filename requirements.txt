@@ -1,0 +1,10 @@
+streamlit==1.29.0
+sentence-transformers==2.7.0
+textblob==0.17.1
+chromadb==0.4.24
+numpy==1.26.4  # Compatible with Python 3.10
+pandas==2.0.3  # Matches numpy==1.26.4
+transformers==4.44.2
+torch==2.3.1
+scikit-learn==1.5.1
+
