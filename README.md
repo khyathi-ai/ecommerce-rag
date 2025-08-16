@@ -11,7 +11,7 @@ A Retrieval-Augmented Generation (RAG) system for personalized e-commerce produc
 - Evaluation metrics: retrieval precision and latency.
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/your-username/ecommerce-rag.git`
+1. Clone the repo: `git clone https://github.com/khyathi-ai/ecommerce-rag.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run locally: `streamlit run app.py`
 
