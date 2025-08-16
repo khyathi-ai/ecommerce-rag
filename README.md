@@ -15,10 +15,6 @@ A Retrieval-Augmented Generation (RAG) system for personalized e-commerce produc
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run locally: `streamlit run app.py`
 
-## Deployment
-- Live demo: [Streamlit Cloud URL or HuggingFace Space URL]
-- Deployed using Streamlit Cloud. See [Streamlit Cloud](#) for setup.
-
 ## Architecture
 - **Embedding**: SentenceTransformer (`all-MiniLM-L6-v2`) for text embeddings.
 - **Storage/Retrieval**: ChromaDB with cosine similarity.
